@@ -6,8 +6,7 @@
   public DaniloGabrielGuedes : IBrazilian
   {
       public const string name = "Danilo Gabriel Guedes";
-      public int age { get; } = DateTime.Now.Year - Convert.ToDateTime("2001-5-14").Year -
-                                  (DateTime.Now.Date < Convert.ToDateTime("2001-5-14").Date ? 0 : 1);
+      public int age { get; } = DateTime.Now.Year - 2001 - (DateTime.Now.Date < Convert.ToDateTime("2001-5-14").Date ? 0 : 1);
       public string education { get; set; } = "Analysis Systems Development - UNIP";
       public string job { get; set; } = "Software Development Analyst";
       public List<string> languages { get; set; } = new List<string>
