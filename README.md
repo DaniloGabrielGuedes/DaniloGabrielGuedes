@@ -23,6 +23,9 @@
   <a href="https://www.linkedin.com/in/danilo-g-guedes/" alt="Linkedin" align="left">
     <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=00FFFF&link=https://www.linkedin.com/in/danilo-g-guedes/"/>
   </a>
+  <a href="https://daniloguedesportfolio.vercel.app/" alt="Linkedin" align="left">
+    <img src="https://img.shields.io/badge/Portfolio-Danilo%20Gabriel%20Guedes-1C1C1C?style=for-the-badge&logo=.net&logoColor=00FFFF"/>  
+  </a>
   
   <img align="right" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/discordjs/discordjs-original.svg" />
   <img align="right" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
