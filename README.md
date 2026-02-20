@@ -20,10 +20,10 @@
 ```
 
 <div>
-  <a href="https://www.linkedin.com/in/danilo-g-guedes/" alt="Linkedin" align="left">
+  <a href="https://www.linkedin.com/in/danilo-g-guedes/" alt="Linkedin" align="left" target="_blank">
     <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=00FFFF&link=https://www.linkedin.com/in/danilo-g-guedes/"/>
   </a>
-  <a href="https://daniloguedesportfolio.vercel.app/" alt="Linkedin" align="left">
+  <a href="https://daniloguedesportfolio.vercel.app/" alt="Linkedin" align="left" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Danilo%20Gabriel%20Guedes-1C1C1C?style=for-the-badge&logo=.net&logoColor=00FFFF"/>  
   </a>
   
